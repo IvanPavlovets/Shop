@@ -18,5 +18,6 @@ public class Main {
         visitor.buy(apricot);
         visitor.buy(cherry1);
         System.out.println("привет!da");
+        System.out.println("sdf");
     }
 }
