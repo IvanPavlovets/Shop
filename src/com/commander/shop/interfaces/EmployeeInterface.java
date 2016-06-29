@@ -11,6 +11,8 @@ public interface EmployeeInterface {
 
     DepartmentInterface getDepartment();
 
+    void setDepartment(DepartmentInterface department);
+
     boolean isFree();
 
     void getInfo();
